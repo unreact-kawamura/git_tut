@@ -1,4 +1,5 @@
 A
+HOGE
 B
 C
 D
